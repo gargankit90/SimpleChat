@@ -1,0 +1,4 @@
+
+hsquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(ÏÎøìûÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×ƒæåøÿÿÿÿ8¬Å›©®+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(ÄÇõó8ÜÒž©®+
